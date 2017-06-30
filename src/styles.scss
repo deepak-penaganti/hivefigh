@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'candyapp-theme';
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+html *{
+    font-family: 'Muli', sans-serif;
+}
+
+.full-width{
+    width: 100%;
+}
